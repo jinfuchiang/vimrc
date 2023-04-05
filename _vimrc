@@ -165,6 +165,6 @@ if has("autocmd")
   augroup END
 endif
 
-" display in the statusline the number of matches from a search?
+" display in the statusline the number of matches from a search
 set shortmess-=S
 
