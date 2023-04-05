@@ -164,3 +164,7 @@ if has("autocmd")
     au BufRead,BufNewFile Vagrantfile setfiletype ruby
   augroup END
 endif
+
+" display in the statusline the number of matches from a search?
+set shortmess-=S
+
