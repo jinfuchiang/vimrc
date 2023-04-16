@@ -1,3 +1,5 @@
+"Write the current file with <NL> alone on all lines :w ++ff=unix
+
 
 " Comments in Vimscript start with a `"`.
 
